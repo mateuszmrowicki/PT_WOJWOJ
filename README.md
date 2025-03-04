@@ -1,2 +1,8 @@
-# PT_WOJWOJ
-WojWoj's repository for Programming Technologies course
+# Programming Technology Lab
+
+## Team
+
+| Name Surname (initials) | GUID                                     |
+| ----------------------- | ---------------------------------------- |
+| Wojciech Wojcieszek     | `{}` |
+| ------------            | `{}` |
