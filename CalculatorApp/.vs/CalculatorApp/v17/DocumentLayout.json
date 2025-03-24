@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CF8146-6259-4911-BF36-09372A67B3A7}|CalculatorApp.Console\\CalculatorApp.Console.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\calculatorapp\\calculatorapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CF8146-6259-4911-BF36-09372A67B3A7}|CalculatorApp.Console\\CalculatorApp.Console.csproj|solutionrelative:calculatorapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98F9B89-8C27-407C-82FE-83B63E813600}|CalculatorApp.Data\\CalculatorApp.Data.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\calculatorapp\\calculatorapp.data\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98F9B89-8C27-407C-82FE-83B63E813600}|CalculatorApp.Data\\CalculatorApp.Data.csproj|solutionrelative:calculatorapp.data\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FB734A-E144-476B-9D0C-8A27EED158F5}|CalculatorApp.Logic\\CalculatorApp.Logic.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\calculatorapp\\calculatorapp.logic\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FB734A-E144-476B-9D0C-8A27EED158F5}|CalculatorApp.Logic\\CalculatorApp.Logic.csproj|solutionrelative:calculatorapp.logic\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90964C81-FB97-4A49-95E4-4D914C208DA5}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\calculatorapp\\calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90964C81-FB97-4A49-95E4-4D914C208DA5}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Console\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Console\\Program.cs",
+              "RelativeToolTip": "CalculatorApp.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:51:18.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Logic\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Logic\\Calculator.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Logic\\Calculator.cs",
+              "RelativeToolTip": "CalculatorApp.Logic\\Calculator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:25:26.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationResult.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Data\\CalculationResult.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Data\\CalculationResult.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Data\\CalculationResult.cs",
+              "RelativeToolTip": "CalculatorApp.Data\\CalculationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:24:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:26:55.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

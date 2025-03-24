@@ -1,0 +1,16 @@
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\bin\Debug\net8.0\CalculatorApp.Logic.deps.json
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\bin\Debug\net8.0\CalculatorApp.Logic.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\bin\Debug\net8.0\CalculatorApp.Logic.pdb
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\bin\Debug\net8.0\CalculatorApp.Data.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\bin\Debug\net8.0\CalculatorApp.Data.pdb
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.csproj.AssemblyReference.cache
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.AssemblyInfoInputs.cache
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.AssemblyInfo.cs
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.sourcelink.json
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\Calculat.001A8363.Up2Date
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\refint\CalculatorApp.Logic.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\CalculatorApp.Logic.pdb
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\CalculatorApp\CalculatorApp.Logic\obj\Debug\net8.0\ref\CalculatorApp.Logic.dll
