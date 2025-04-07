@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9638AC9A-438A-487B-9A8A-86A2EC9404E7}|Library.Tests\\Library.Tests.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\libraryapp\\library.tests\\libraryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9638AC9A-438A-487B-9A8A-86A2EC9404E7}|Library.Tests\\Library.Tests.csproj|solutionrelative:library.tests\\libraryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22A55E2-E520-4493-8B32-D24247BCC1AE}|Library.Logic\\Library.Logic.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\libraryapp\\library.logic\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22A55E2-E520-4493-8B32-D24247BCC1AE}|Library.Logic\\Library.Logic.csproj|solutionrelative:library.logic\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BBA193-BD36-4D8A-ACEC-DEDB2CD4792F}|Library.Data\\Library.Data.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\libraryapp\\library.data\\librarystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BBA193-BD36-4D8A-ACEC-DEDB2CD4792F}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\librarystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BBA193-BD36-4D8A-ACEC-DEDB2CD4792F}|Library.Data\\Library.Data.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\libraryapp\\library.data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BBA193-BD36-4D8A-ACEC-DEDB2CD4792F}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BBA193-BD36-4D8A-ACEC-DEDB2CD4792F}|Library.Data\\Library.Data.csproj|c:\\users\\mateusz\\onedrive\\dokumenty\\studia\\programmingtechnologies\\libraryapp\\library.data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BBA193-BD36-4D8A-ACEC-DEDB2CD4792F}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Tests\\LibraryServiceTests.cs",
+              "RelativeDocumentMoniker": "Library.Tests\\LibraryServiceTests.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Tests\\LibraryServiceTests.cs",
+              "RelativeToolTip": "Library.Tests\\LibraryServiceTests.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwF4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:33:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Logic\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Library.Logic\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Logic\\LibraryService.cs",
+              "RelativeToolTip": "Library.Logic\\LibraryService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:27:58.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryState.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Data\\LibraryState.cs",
+              "RelativeDocumentMoniker": "Library.Data\\LibraryState.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Data\\LibraryState.cs",
+              "RelativeToolTip": "Library.Data\\LibraryState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:26:25.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Data\\User.cs",
+              "RelativeDocumentMoniker": "Library.Data\\User.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Data\\User.cs",
+              "RelativeToolTip": "Library.Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:24:57.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Data\\Book.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Book.cs",
+              "ToolTip": "C:\\Users\\MATEUSZ\\OneDrive\\Dokumenty\\Studia\\ProgrammingTechnologies\\LibraryApp\\Library.Data\\Book.cs",
+              "RelativeToolTip": "Library.Data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:23:02.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

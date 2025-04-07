@@ -1,0 +1,16 @@
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\bin\Debug\net8.0\Library.Logic.deps.json
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\bin\Debug\net8.0\Library.Logic.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\bin\Debug\net8.0\Library.Logic.pdb
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\bin\Debug\net8.0\Library.Data.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\bin\Debug\net8.0\Library.Data.pdb
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.csproj.AssemblyReference.cache
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.AssemblyInfoInputs.cache
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.AssemblyInfo.cs
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.csproj.CoreCompileInputs.cache
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.sourcelink.json
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library..2D356762.Up2Date
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\refint\Library.Logic.dll
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\Library.Logic.pdb
+C:\Users\MATEUSZ\OneDrive\Dokumenty\Studia\ProgrammingTechnologies\LibraryApp\Library.Logic\obj\Debug\net8.0\ref\Library.Logic.dll
